@@ -9,11 +9,11 @@ Working from [Baltimore City Employees Salaries Data](https://data.baltimorecity
 ![Alt text](cluster-results.png)
 Cluster analysis of the dataset allowed us to identify clusters, or groups, of similar data points. In the context of Baltimore employee salaries, clusters were defined by z-score (measurement of number of standard deviations above or below the mean) of years worked at agency, annual salary, and gross pay. All z-scores were calculated using the mean and standard deviation of years worked, annual salary, and gross pay of all agency occupations reported in FY2020. In cluster 1, occupations such as crossing guards and highways maintanence employees worked fewer years in their profession than the average, and reported lower than average annual salary and lower than average gross pay. In cluster 2, occupations of the health department and Department of Public Works (specifically sewer management) worked for a number of years very close to the mean, and had slightly higher than average annual salary and gross pay. Lastly, for cluster 3, occupations from Baltimore Polic Deparment and Fire Department reported higher than average years worked, annual salary, and gross pay.
 
-The z-scores of each cluster suggests a positive correlation between years worked and gross pay - the higher the number of years worked at an agency, the higher the gross pay. The scatter plot below confirms the slight positive correlation between the two variables. 
+The z-scores of each cluster suggests a positive correlation between years worked and gross pay - the higher the number of years worked at an agency, the higher the gross pay. The scatter plot below confirms the slight positive correlation between the two variables. Thus, in addition to employment within an agency, the number of years an individual has worked in the profession also has an influence on gross pay.  
 ![Alt text](scatter-plot1.png) 
 
-Arbritrarily setting the number of data point clusters to 3 assumes if all data points were plotted on a graph with the three variables as the axes, the data would be visually grouped into 3 distinct regions. To determine whether the assumption of 3 clusters was appropriate for the dataset, we can compare the number of data points in each cluster.
+Arbritrarily setting the number of data point clusters to 3 assumes if all data points were plotted on a graph with the three variables as the axes, the data would be visually grouped into 3 distinct regions. To determine whether the assumption of 3 clusters was appropriate for the dataset, we can compare the number of data points in each cluster. There is no single cluster with a substantially larger number of data points, so using 3 clusters appropriately captured the distribution of data.
 ![Alt text](data-points-by-cluster.png)
 
-## Limitations to Cluster Analysis and Next Steps
+## Next Steps
 

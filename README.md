@@ -12,5 +12,8 @@ Cluster analysis of the dataset allowed us to identify clusters, or groups, of s
 The z-scores of each cluster suggests a positive correlation between years worked and gross pay - the higher the number of years worked at an agency, the higher the gross pay. The scatter plot below confirms the slight positive correlation between the two variables. 
 ![Alt text](scatter-plot1.png) 
 
+Arbritrarily setting the number of data point clusters to 3 assumes if all data points were plotted on a graph with the three variables as the axes, the data would be visually grouped into 3 distinct regions. To determine whether the assumption of 3 clusters was appropriate for the dataset, we can compare the number of data points in each cluster.
+![Alt text] (data-points-by-cluster.png)
+
 ## Limitations to Cluster Analysis and Next Steps
 

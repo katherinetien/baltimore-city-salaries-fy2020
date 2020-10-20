@@ -6,7 +6,7 @@ The 21st Century Cities Initiative at JHU conducts urban research to examine the
 ## Business Question 
 Looking at 2020 fiscal year's employee salaries in Baltimore, how can we categorize agencies using years worked, anuual salary, and gross pay of each occupation?
 ## Data Question 
-Working from [Baltimore City Employees Salaries Data](https://data.baltimorecity.gov/City-Government/Baltimore-City-Employees-Salaries/w28m-utix), raw data points were pulled from Agency Name, Hire Date, Annual Salary, and Gross Pay. The number of years worked at each occupation was calculated from (2020 - year of hire date). The final [dataset](cluster-analysis.xlsx) used for cluster analysis included z-scores,  
+Working from [Baltimore City Employees Salaries Data](https://data.baltimorecity.gov/City-Government/Baltimore-City-Employees-Salaries/w28m-utix), raw data points were pulled from Agency Name, Hire Date, Annual Salary, and Gross Pay. The number of years worked at each occupation was calculated from (2020 - year of hire date). The final [dataset](cluster_analysis.xlsx) used for cluster analysis included z-scores,  
 ## Data Answer 
 ## Limitations to Cluster Analysis and Next Steps
 

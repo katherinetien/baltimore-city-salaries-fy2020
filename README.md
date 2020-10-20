@@ -16,5 +16,4 @@ Arbritrarily setting the number of data point clusters to 3 assumes if all data 
 ![Alt text](data-points-by-cluster1.png)
 
 ## Next Steps
-The cluster analysis of occupations based on years worked, annual salary, and gross pay allows us
-
+Cluster analysis of these agencies (and occupations within each agency) allows us to visualize the segmentation of socioeconomic status in Baltimore. Identifying these clusters can predict the numbers of years worked, annual salary, and gross pay based on profession. Additional qualitative research into the reasons why occupations with lower gross pay tend to have high employee turnover rates can reveal how policy can be tailored to match the socioeconomic needs of individuals with these occupations. Ultimately, gross pay translates to an individual's potential for social mobility. If we can further explore which areas of the city individuals of each cluster reside in, policy to encourage economic growth in low-income populations can be directly aimed at the variables that influence gross pay. 

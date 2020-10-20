@@ -13,7 +13,7 @@ The z-scores of each cluster suggests a positive correlation between years worke
 ![Alt text](scatter-plot1.png) 
 
 Arbritrarily setting the number of data point clusters to 3 assumes if all data points were plotted on a graph with the three variables as the axes, the data would be visually grouped into 3 distinct regions. To determine whether the assumption of 3 clusters was appropriate for the dataset, we can compare the number of data points in each cluster.
-![Alt text] (data-points-by-cluster.png)
+![Alt text](data-points-by-cluster.png)
 
 ## Limitations to Cluster Analysis and Next Steps
 
